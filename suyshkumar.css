@@ -1,0 +1,183 @@
+.page-1-img{
+    background-image: url("./arjun\ .jpg"); 
+    background-size: cover;
+    background-position: 0px -175px;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100vh;
+}
+.brand-name{
+    text-align: center;
+    padding-top: 250px;
+    color: white !important;
+}
+.brand-name .suyash-name{
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+.brand-name hr{
+    max-width: 200px;
+    border-top: 1px solid #06f5c9;
+    border-bottom: 1px solid  #06f5c9;
+    height: 2px;
+    margin: 20px auto;
+}
+.brand-name .suyash-degree{
+    font-size: 30px;
+}
+.margin-extra{
+    margin-top: 100px;
+}
+.page-02-title .page-02-name{
+    text-align: center;
+    font-size: 52px;
+    font-family: 'Open Sans', sans-serif;
+}
+.page-02-title .text-color{
+    color: #7eb2e6;
+}
+.page-02-title hr{
+    max-width: 200px;
+    border-top: 1px solid #1d85ec;
+    border-bottom: 1px solid  #1d85ec;
+    height: 2px;
+    margin: 20px auto;
+}
+.currently-bold{
+    font-weight: bold;
+    font-size: 17.8px;
+}
+.page-02-title p{
+    line-height: 1.5em;
+    font-size: 20px;
+}
+.page-02-title a{
+    color:#1d85ec;
+    text-decoration: none;
+}
+.page-02-title a:hover{
+    color: black;
+}
+.page-03 a:hover{
+    color: black;
+}
+.ex-height{
+    font-size: 17px;
+}
+.card{
+    width: 100%;
+}
+.card img{
+    height: 255px;
+}
+.show{
+    box-shadow: 1px 2px 3px 4px rgb(167, 162, 162);
+}
+.text-heading{
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 100px;
+    font-size: 48px;
+}
+.page-03 hr{
+    max-width: 200px;
+    border-top: 1px solid #1d85ec;
+    border-bottom: 1px solid  #1d85ec;
+    height: 2px;
+    margin: 20px auto;
+}
+.page-03-text ,.page-03-txt-hd{
+    font-size: 18px;
+    line-height: 2;
+}
+.page-03 a{
+    color:#1d85ec;
+    text-decoration: none;
+}
+.img-size{
+    width: 100%;
+}
+.img-size img{
+    height: 580px;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.footer{
+    background-image: url("./arjun\ .jpg");
+    width: 100%;
+    height: 460px;
+    background-position: 0px -175px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.fots{
+    padding-top: 100px;
+    color: whitesmoke;
+}
+.email{
+    padding-bottom: 80px;
+}
+.monos{
+    padding-bottom: 80px;
+}
+.last-f{
+    padding-bottom: 20px;
+}
+/* @media (min-width:200px) and (max-width:1024px){
+    .page-1-img{
+        width: 100%;
+    }
+    .card{
+        width: 100%;
+    }
+    .suyash-name{
+        color: white !important;
+    }
+} */
+/* header top heading arjun name css */
+
+.sanjay-img img{
+    height: 70px;
+    width: 60px;
+}
+.list-line{
+    display: flex;
+    justify-content: center;
+}
+.name span{
+    font-size: 20px;
+    font-weight: bold;
+}
+.name h6{
+    padding-left: 25px;
+}
+.sanjay-logo i{
+    color: black;
+    font-size: 20px;
+    border: 1px solid;
+    border-radius: 25px;
+    padding: 8px;
+    /* background: linear-gradient(to right, #0ff80fa9, #1bcffce0); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.sanjay-logo i:hover{
+    background: linear-gradient(to right, #f4f80ff5, #fc1124e8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.font-color ul li a span{
+    color: rgb(211, 209, 209);
+}
+.bg-h:hover{
+    background: linear-gradient(to right, #f4f80ff5, #fc1124e8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.shap{
+    border-radius: 15px 0px 15px 0px;
+}
+.position{
+    background-color: rgb(233, 231, 231);
+    /* background: linear-gradient(to right, #e6ff5a, #3df78a); */
+    position: absolute;
+    position: sticky;
+    /* top: 0px; */
+    width: 100%;
+    z-index: 1;
+}

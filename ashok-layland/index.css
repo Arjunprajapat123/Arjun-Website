@@ -1,0 +1,170 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+section{
+    width: 100%;
+    display: flex;
+}
+.header-01{
+    width: 20%;
+    border: 1px solid black;
+}
+.logo-image{
+    width: 100%;
+}
+.logo-image img{
+    padding: 25px 0px 20px 45px;
+}
+.header-02{
+    width: 80%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+.header-02 .list-header ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.list-header ul li{
+    padding: 15px 40px;
+    border: 1px solid rgb(226, 222, 222);
+
+}
+.header-02 .list-header ul a{
+        text-decoration: none;
+}
+.header-02 .list-navbar{
+    height: 50px;
+}
+.header-02 .list-navbar-left ul{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+    list-style-type: none;  
+    margin:0px 300px 0px 20px;     
+}
+.header-02 .list-navbar .list-navbar-left ul a{
+    text-decoration: none;
+}
+.header-02 .list-navbar .list-navbar-right{
+    padding-left: 1000px;
+}
+.header-02 .list-navbar .list-navbar-left ul h1{
+    font-size: 15px;
+}
+.background-image{
+    background: url("https://www.ashokleyland.com/backend/in/wp-content/uploads/sites/2/2021/05/Iftar1440x650Banner-1.jpg") no-repeat;
+    background-position: 0px -150px;
+    background-size: cover;
+    height: 550px;
+    width: 100%;
+}
+.new-bg-1{
+    background: url("https://www.ashokleyland.com/backend/in/wp-content/uploads/sites/2/2021/07/Switch-Mobility-Mobile-banner_R.jpg");
+    background-position: 0px -150px;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+}
+.new-bg-2{
+    background: url("https://www.ashokleyland.com/backend/in/wp-content/uploads/sites/2/2021/08/Covid-video-Web-banner01-1.jpg") no-repeat;
+    background-position: 0px -0px;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+}
+.paragraph{
+    text-align: center;
+    padding-top: 100px;
+}
+.four-truck{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.four-truck-name{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+}
+.container-000{
+    width: 90%;
+    margin: 0px auto;
+}
+.four-truck-name h3{
+    border: 1px solid black;
+    display: inline-block;
+    padding: 5px 15px;
+}
+.container-05{
+    width: 80%;
+    margin: 0% auto;
+}
+.page-05{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
+}
+.first-part{
+    color: white;
+    background-color:rgb(6, 6, 126);
+    display: inline-block;
+    text-align: center;
+    padding: 30px 20px;
+}
+.first-part h1{
+    color: yellow;
+}
+.first-part h3{
+    background-color: rgb(20, 20, 240);
+    display: inline-block;
+    padding: 5px 15px;
+}
+.page-06{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.first-06{
+    /* padding: 50px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.footer-space{
+    padding-top: 100px;
+}
+.footer{
+    background-color: rgb(83, 81, 81);
+    height: 800px;
+    margin-top: 100px;
+    color: white;
+    padding-top: 60px;
+}
+.container-7{
+    width: 1200px;
+    margin: 0px auto;
+}
+.container-7 .list-00{
+    line-height: 25px;
+    display: flex;
+    font-family: 'Rubik', sans-serif;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.list-00 ul{
+    font-size: 13px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.container-7 h1{
+    font-size: 18px;
+}
